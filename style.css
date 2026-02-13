@@ -1,0 +1,26 @@
+
+.page-title {
+  font-family: fantasy;
+  font-size: 3rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+
+  color: rgb(68, 68, 68);
+  text-align: center;
+
+  margin: 40px 0 20px;
+  padding-bottom: 10px;
+}
+
+.abt-me-prg {
+  font-family: fantasy;
+  font-size: 2rem;
+  line-height: 2.0;
+  color: rgb(68, 68, 68);
+  text-align: center;
+
+  margin: 0 auto;
+  margin-top: 125px;
+  max-width: 1250px;
+}
